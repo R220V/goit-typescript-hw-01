@@ -1,7 +1,8 @@
-let unionType: number | string;
+// union type
+let unionType: string | number;
 
-unionType = 8;
 unionType = 'two';
+unionType = 8;
 
 
 let literalType: 'enable' | 'disable';
